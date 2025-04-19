@@ -1,0 +1,79 @@
+﻿  SablonQRCG.cpp
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(12,41): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(300,53): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+      C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(300,53):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(24,17):
+          see reference to class template instantiation 'qr::Qr<3>' being compiled
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(301,57): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(352,18): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+      C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(352,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(24,17):
+          see reference to class template instantiation 'qr::Qr<3>' being compiled
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(318,5):
+          while compiling class template member function 'bool qr::Qr<3>::encode(const char *,size_t,qr::Ecc,int)'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(26,14):
+              see the first reference to 'qr::Qr<3>::encode' in 'main'
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(345,5):
+          while compiling class template member function 'bool qr::Qr<3>::encode_data(const char *,size_t,qr::Ecc,uint8_t *)'
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(372,30): warning C4244: 'initializing': conversion from 'long' to 'uint16_t', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(381,30): warning C4244: 'initializing': conversion from 'long' to 'uint16_t', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(382,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(429,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(748,37): warning C4805: '==': unsafe mix of type 'bool' and type 'uint8_t' in operation
+  (compiling source file 'SablonQRCG.cpp')
+      C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(748,37):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(310,5):
+          while compiling class template member function 'bool qr::Qr<3>::module(int,int) const'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(12,19):
+              see the first reference to 'qr::Qr<3>::module' in 'print_qr'
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(737,5):
+          while compiling class template member function 'int qr::Qr<3>::penalty_score(void)'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(775,19):
+              see the first reference to 'qr::Qr<3>::penalty_score' in 'qr::Qr<3>::select_mask'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(335,14):
+              see the first reference to 'qr::Qr<3>::select_mask' in 'qr::Qr<3>::encode'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(26,14):
+              see the first reference to 'qr::Qr<3>::encode' in 'main'
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(749,37): warning C4805: '==': unsafe mix of type 'bool' and type 'uint8_t' in operation
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(750,37): warning C4805: '==': unsafe mix of type 'bool' and type 'uint8_t' in operation
+  (compiling source file 'SablonQRCG.cpp')
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(713,49): warning C4805: '==': unsafe mix of type 'uint8_t' and type 'bool' in operation
+  (compiling source file 'SablonQRCG.cpp')
+      C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(713,49):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(737,5):
+          while compiling class template member function 'int qr::Qr<3>::penalty_score(void)'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(775,19):
+              see the first reference to 'qr::Qr<3>::penalty_score' in 'qr::Qr<3>::select_mask'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(335,14):
+              see the first reference to 'qr::Qr<3>::select_mask' in 'qr::Qr<3>::encode'
+              C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\SablonQRCG.cpp(26,14):
+              see the first reference to 'qr::Qr<3>::encode' in 'main'
+          C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(740,16):
+          see reference to function template instantiation 'int qr::Qr<3>::rule_1_3_score<true>(void)' being compiled
+  
+C:\Users\ASUS\source\repos\SablonQRCG\SablonQRCG\QR.hpp(725,52): warning C4805: '|': unsafe mix of type 'int' and type 'bool' in operation
+  (compiling source file 'SablonQRCG.cpp')
+  
+  SablonQRCG.vcxproj -> C:\Users\ASUS\source\repos\SablonQRCG\x64\Debug\SablonQRCG.exe
