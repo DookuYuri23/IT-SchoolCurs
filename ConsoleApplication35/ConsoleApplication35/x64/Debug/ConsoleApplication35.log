@@ -1,0 +1,5 @@
+﻿  ConsoleApplication35.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication35\ConsoleApplication35\ConsoleApplication35.cpp(100,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\ASUS\source\repos\ConsoleApplication35\ConsoleApplication35\ConsoleApplication35.cpp(35,5):
+      see previous definition of 'main'
+  

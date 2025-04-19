@@ -1,0 +1,11 @@
+﻿  ConsoleApplication16.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(10,19): error C2955: 'std::array': use of class template requires template argument list
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\utility(144,7):
+      see declaration of 'std::array'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(10,25): error C2143: syntax error: missing ')' before '+'
+C:\Users\ASUS\source\repos\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(10,28): error C2059: syntax error: ')'
+C:\Users\ASUS\source\repos\ConsoleApplication16\ConsoleApplication16\ConsoleApplication16.cpp(10,18): error C2027: use of undefined type 'std::array'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\utility(144,7):
+      see declaration of 'std::array'
+  

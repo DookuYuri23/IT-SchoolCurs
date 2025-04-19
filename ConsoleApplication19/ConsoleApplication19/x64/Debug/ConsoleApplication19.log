@@ -1,0 +1,6 @@
+﻿  ConsoleApplication19.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication19\ConsoleApplication19\ConsoleApplication19.cpp(15,27): error C3867: 'std::vector<int,std::allocator<int>>::size': non-standard syntax; use '&' to create a pointer to member
+C:\Users\ASUS\source\repos\ConsoleApplication19\ConsoleApplication19\ConsoleApplication19.cpp(15,23): error C2446: '<': no conversion from 'unsigned __int64 (__cdecl std::vector<int,std::allocator<int>>::* )(void) noexcept const' to 'int'
+      C:\Users\ASUS\source\repos\ConsoleApplication19\ConsoleApplication19\ConsoleApplication19.cpp(15,27):
+      There is no context in which this conversion is possible
+  

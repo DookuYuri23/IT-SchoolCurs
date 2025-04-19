@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81E08EF-CD89-46C3-A9CD-7A63FC949E54}|ConsoleApplication3\\ConsoleApplication3.vcxproj|C:\\Users\\ASUS\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F81E08EF-CD89-46C3-A9CD-7A63FC949E54}|ConsoleApplication3\\ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T16:25:37.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

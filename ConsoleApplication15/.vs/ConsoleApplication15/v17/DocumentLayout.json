@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5832DDDB-7F0A-44A7-9547-32E0D73C87F3}|ConsoleApplication15\\ConsoleApplication15.vcxproj|C:\\Users\\ASUS\\source\\repos\\ConsoleApplication15\\ConsoleApplication15\\ConsoleApplication15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5832DDDB-7F0A-44A7-9547-32E0D73C87F3}|ConsoleApplication15\\ConsoleApplication15.vcxproj|solutionrelative:ConsoleApplication15\\ConsoleApplication15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication15.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication15\\ConsoleApplication15\\ConsoleApplication15.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication15\\ConsoleApplication15.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApplication15\\ConsoleApplication15\\ConsoleApplication15.cpp",
+              "RelativeToolTip": "ConsoleApplication15\\ConsoleApplication15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T17:14:20.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(15,7): error C2374: 'int_ptr': redefinition; multiple initialization
+      C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(8,7):
+      see declaration of 'int_ptr'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(21,12): error C2440: '=': cannot convert from 'double *' to 'int *'
+      C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(21,12):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(32,2): error C2065: 'temp': undeclared identifier
+C:\Users\ASUS\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(32,9): error C2065: 'ptr': undeclared identifier

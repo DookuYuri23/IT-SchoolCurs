@@ -1,0 +1,4 @@
+﻿  ConsoleApplication18.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(12,32): error C2146: syntax error: missing ')' before identifier 'i'
+C:\Users\ASUS\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(12,33): error C2059: syntax error: ')'
+C:\Users\ASUS\source\repos\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(12,34): error C2146: syntax error: missing ';' before identifier 'cout'

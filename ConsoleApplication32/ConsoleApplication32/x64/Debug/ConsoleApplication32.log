@@ -1,0 +1,138 @@
+﻿  ConsoleApplication32.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(139,26): error C2760: syntax error: ';' was unexpected here; expected ','
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(139,15): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31): error C2672: 'begin': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1962,27):
+      could be '_Ty *std::begin(_Ty (&)[_Size]) noexcept'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          '_Ty *std::begin(_Ty (&)[_Size]) noexcept': could not deduce template argument for '_Ty (&)[_Size]' from 'unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1944,30):
+      or       'unknown-type std::begin(const _Container &) noexcept(<expr>)'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          Failed to specialize function template 'unknown-type std::begin(const _Container &) noexcept(<expr>)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+              With the following template arguments:
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+                  '_Container=unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1938,30):
+      or       'unknown-type std::begin(_Container &) noexcept(<expr>)'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          Failed to specialize function template 'unknown-type std::begin(_Container &) noexcept(<expr>)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+              With the following template arguments:
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+                  '_Container=unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\initializer_list(54,35):
+      or       'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31): error C2672: 'end': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1967,27):
+      could be '_Ty *std::end(_Ty (&)[_Size]) noexcept'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          '_Ty *std::end(_Ty (&)[_Size]) noexcept': could not deduce template argument for '_Ty (&)[_Size]' from 'unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1956,30):
+      or       'unknown-type std::end(const _Container &) noexcept(<expr>)'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          Failed to specialize function template 'unknown-type std::end(const _Container &) noexcept(<expr>)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+              With the following template arguments:
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+                  '_Container=unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\xutility(1950,30):
+      or       'unknown-type std::end(_Container &) noexcept(<expr>)'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          Failed to specialize function template 'unknown-type std::end(_Container &) noexcept(<expr>)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+              With the following template arguments:
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+                  '_Container=unknown-type'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\initializer_list(59,35):
+      or       'const _Elem *std::end(std::initializer_list<_Elem>) noexcept'
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31):
+          'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31): error C3536: '<begin>$L1': cannot be used before it is initialized
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,31): error C3536: '<end>$L1': cannot be used before it is initialized
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35): error C2440: 'initializing': cannot convert from 'int' to 'const Car &'
+      C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+      Reason: cannot convert from 'int' to 'const Car'
+      C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+      'Car::Car': no overloaded function could convert all the argument types
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(23,1):
+          could be 'Car::Car(Car &&)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+              'Car::Car(Car &&)': cannot convert argument 1 from 'int' to 'Car &&'
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+                  Reason: cannot convert from 'int' to 'Car'
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(23,1):
+          or       'Car::Car(const Car &)'
+              C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+              'Car::Car(const Car &)': cannot convert argument 1 from 'int' to 'const Car &'
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+                  Reason: cannot convert from 'int' to 'const Car'
+                  C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(140,35):
+          while trying to match the argument list '(int)'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(145,9): error C2593: 'operator <<' is ambiguous
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.41.34120\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Users\ASUS\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(145,9):
+      while trying to match the argument list '(std::ostream, unknown-type)'
+  

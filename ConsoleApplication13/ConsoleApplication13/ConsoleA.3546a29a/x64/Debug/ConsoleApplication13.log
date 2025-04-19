@@ -1,0 +1,9 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(15,7): error C2374: 'int_ptr': redefinition; multiple initialization
+      C:\Users\ASUS\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(8,7):
+      see declaration of 'int_ptr'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(21,12): error C2440: '=': cannot convert from 'double *' to 'int *'
+      C:\Users\ASUS\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(21,12):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  

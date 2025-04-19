@@ -1,0 +1,25 @@
+﻿  ConsoleApplication27.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,13): error C2665: 'Player::Player': no overloaded function could convert all the argument types
+      C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(33,1):
+      could be 'Player::Player(Player &&)'
+          C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,13):
+          'Player::Player(Player &&)': cannot convert argument 1 from 'const char [5]' to 'Player &&'
+              C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,14):
+              Reason: cannot convert from 'const char [5]' to 'Player'
+      C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(33,1):
+      or       'Player::Player(const Player &)'
+          C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,13):
+          'Player::Player(const Player &)': cannot convert argument 1 from 'const char [5]' to 'const Player &'
+              C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,14):
+              Reason: cannot convert from 'const char [5]' to 'const Player'
+      C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(42,13):
+      while trying to match the argument list '(const char [5])'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(45,13): error C2661: 'Player::Player': no overloaded function takes 3 arguments
+      C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(45,13):
+      while trying to match the argument list '(const char [7], int, int)'
+  
+C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(48,29): error C2661: 'Player::Player': no overloaded function takes 3 arguments
+      C:\Users\ASUS\source\repos\ConsoleApplication27\ConsoleApplication27\ConsoleApplication27.cpp(48,29):
+      while trying to match the argument list '(const char [7], int, int)'
+  

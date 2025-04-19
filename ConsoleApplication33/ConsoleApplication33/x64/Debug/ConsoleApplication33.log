@@ -1,0 +1,4 @@
+﻿  ConsoleApplication33.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(30,38): error C3688: invalid literal suffix 'std'; literal operator or literal operator template 'operator ""std' not found
+C:\Users\ASUS\source\repos\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(30,48): error C2143: syntax error: missing ';' before 'std::endl'
+C:\Users\ASUS\source\repos\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(30,48): warning C4551: function call missing argument list
