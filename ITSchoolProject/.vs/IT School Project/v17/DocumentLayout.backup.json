@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Ferma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\PlanVanzareCultura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\PlanVanzare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Cultura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\BovineLapte.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\BovineLapte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Cultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Cultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineCarne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\BovineCarne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\IT School Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\IT School Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\PlanVanzare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\PlanVanzareCultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Ferma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Cultura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\BovineLapte.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\BovineCarne.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA150C97-7E1C-4BAF-BD99-FB6FA1DD7EBE}|IT School Project\\IT School Project.vcxproj|solutionrelative:IT School Project\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BovineLapte.cpp",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.cpp",
               "RelativeDocumentMoniker": "IT School Project\\BovineLapte.cpp",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.cpp",
               "RelativeToolTip": "IT School Project\\BovineLapte.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-20T21:08:39.726Z",
               "IsPinned": true,
@@ -56,35 +88,154 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cultura.h",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Cultura.h",
-              "RelativeDocumentMoniker": "IT School Project\\Cultura.h",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Cultura.h",
-              "RelativeToolTip": "IT School Project\\Cultura.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PlanVanzare.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.h",
+              "RelativeDocumentMoniker": "IT School Project\\PlanVanzare.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.h",
+              "RelativeToolTip": "IT School Project\\PlanVanzare.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-20T21:19:33.763Z"
+              "WhenOpened": "2025-04-26T11:42:17.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\Animal.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.cpp",
+              "RelativeToolTip": "IT School Project\\Animal.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T20:59:32.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BovineCarne.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\BovineCarne.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.cpp",
+              "RelativeToolTip": "IT School Project\\BovineCarne.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T21:17:50.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BovineCarne.cpp",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineCarne.cpp",
-              "RelativeDocumentMoniker": "IT School Project\\BovineCarne.cpp",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineCarne.cpp",
-              "RelativeToolTip": "IT School Project\\BovineCarne.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Cultura.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\Cultura.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.cpp",
+              "RelativeToolTip": "IT School Project\\Cultura.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-20T21:17:50.111Z"
+              "WhenOpened": "2025-04-26T11:40:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanVanzare.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\PlanVanzare.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzare.cpp",
+              "RelativeToolTip": "IT School Project\\PlanVanzare.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T11:43:37.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanVanzareCultura.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\PlanVanzareCultura.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.cpp",
+              "RelativeToolTip": "IT School Project\\PlanVanzareCultura.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T11:45:35.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Ferma.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\Ferma.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.cpp",
+              "RelativeToolTip": "IT School Project\\Ferma.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T11:47:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\main.cpp",
+              "RelativeDocumentMoniker": "IT School Project\\main.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\main.cpp",
+              "RelativeToolTip": "IT School Project\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T11:50:22.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanVanzareCultura.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.h",
+              "RelativeDocumentMoniker": "IT School Project\\PlanVanzareCultura.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\PlanVanzareCultura.h",
+              "RelativeToolTip": "IT School Project\\PlanVanzareCultura.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T11:44:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ferma.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.h",
+              "RelativeDocumentMoniker": "IT School Project\\Ferma.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Ferma.h",
+              "RelativeToolTip": "IT School Project\\Ferma.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T11:46:19.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cultura.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.h",
+              "RelativeDocumentMoniker": "IT School Project\\Cultura.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Cultura.h",
+              "RelativeToolTip": "IT School Project\\Cultura.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T21:19:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BovineLapte.h",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.h",
               "RelativeDocumentMoniker": "IT School Project\\BovineLapte.h",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\BovineLapte.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineLapte.h",
               "RelativeToolTip": "IT School Project\\BovineLapte.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -93,37 +244,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Animal.cpp",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.cpp",
-              "RelativeDocumentMoniker": "IT School Project\\Animal.cpp",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.cpp",
-              "RelativeToolTip": "IT School Project\\Animal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-20T20:59:32.926Z"
+              "DocumentIndex": 13,
+              "Title": "BovineCarne.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.h",
+              "RelativeDocumentMoniker": "IT School Project\\BovineCarne.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\BovineCarne.h",
+              "RelativeToolTip": "IT School Project\\BovineCarne.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T11:39:49.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IT School Project.cpp",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\IT School Project.cpp",
-              "RelativeDocumentMoniker": "IT School Project\\IT School Project.cpp",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\IT School Project.cpp",
-              "RelativeToolTip": "IT School Project\\IT School Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-20T20:48:19.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Animal.h",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.h",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.h",
               "RelativeDocumentMoniker": "IT School Project\\Animal.h",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\IT School Project\\IT School Project\\Animal.h",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ITSchoolProject\\IT School Project\\Animal.h",
               "RelativeToolTip": "IT School Project\\Animal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-20T21:13:27.326Z",
               "EditorCaption": ""

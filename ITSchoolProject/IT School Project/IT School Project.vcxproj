@@ -127,16 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IT School Project.cpp" />
     <ClCompile Include="Animal.cpp" />
     <ClCompile Include="BovineLapte.cpp" />
     <ClCompile Include="BovineCarne.cpp" />
+    <ClCompile Include="Cultura.cpp" />
+    <ClCompile Include="PlanVanzare.cpp" />
+    <ClCompile Include="PlanVanzareCultura.cpp" />
+    <ClCompile Include="Ferma.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h" />
     <ClInclude Include="BovineLapte.h" />
     <ClInclude Include="BovineCarne.h" />
     <ClInclude Include="Cultura.h" />
+    <ClInclude Include="Ferma.h" />
+    <ClInclude Include="PlanVanzareCultura.h" />
+    <ClInclude Include="PlanVanzare.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -7,3 +7,4 @@ BovineCarne::BovineCarne(int numar, double pret, double greutate)
 void BovineCarne::afisareInfo() const {
     Animal::afisareInfo();
     std::cout << "  Greutate medie: " << greutateMedie << " kilogram/capita\n";
+}
